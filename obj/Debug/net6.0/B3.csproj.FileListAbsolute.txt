@@ -1,0 +1,15 @@
+D:\УП\B3\B3\bin\Debug\net6.0\B3.exe
+D:\УП\B3\B3\bin\Debug\net6.0\B3.deps.json
+D:\УП\B3\B3\bin\Debug\net6.0\B3.runtimeconfig.json
+D:\УП\B3\B3\bin\Debug\net6.0\B3.dll
+D:\УП\B3\B3\bin\Debug\net6.0\B3.pdb
+D:\УП\B3\B3\obj\Debug\net6.0\B3.csproj.AssemblyReference.cache
+D:\УП\B3\B3\obj\Debug\net6.0\B3.GeneratedMSBuildEditorConfig.editorconfig
+D:\УП\B3\B3\obj\Debug\net6.0\B3.AssemblyInfoInputs.cache
+D:\УП\B3\B3\obj\Debug\net6.0\B3.AssemblyInfo.cs
+D:\УП\B3\B3\obj\Debug\net6.0\B3.csproj.CoreCompileInputs.cache
+D:\УП\B3\B3\obj\Debug\net6.0\B3.dll
+D:\УП\B3\B3\obj\Debug\net6.0\refint\B3.dll
+D:\УП\B3\B3\obj\Debug\net6.0\B3.pdb
+D:\УП\B3\B3\obj\Debug\net6.0\B3.genruntimeconfig.cache
+D:\УП\B3\B3\obj\Debug\net6.0\ref\B3.dll
